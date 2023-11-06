@@ -1,0 +1,12 @@
+{
+  "name": "Web-Crawle",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start":"node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
